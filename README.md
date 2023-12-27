@@ -1,2 +1,2 @@
 # suppoters2
-masterブランチで変更
+mainブランチで変更
