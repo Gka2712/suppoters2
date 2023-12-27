@@ -1,2 +1,2 @@
 # suppoters2
-developブランチで変更
+mainブランチで変更
